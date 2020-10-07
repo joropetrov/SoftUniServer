@@ -1,0 +1,14 @@
+C:\Users\red_d\source\repos\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.exe
+C:\Users\red_d\source\repos\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.deps.json
+C:\Users\red_d\source\repos\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.runtimeconfig.json
+C:\Users\red_d\source\repos\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.runtimeconfig.dev.json
+C:\Users\red_d\source\repos\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.dll
+C:\Users\red_d\source\repos\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.pdb
+C:\Users\red_d\source\repos\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\SUS.HTTP.dll
+C:\Users\red_d\source\repos\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\SUS.HTTP.pdb
+C:\Users\red_d\source\repos\SUS\Apps\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.csprojAssemblyReference.cache
+C:\Users\red_d\source\repos\SUS\Apps\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.AssemblyInfoInputs.cache
+C:\Users\red_d\source\repos\SUS\Apps\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.AssemblyInfo.cs
+C:\Users\red_d\source\repos\SUS\Apps\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.csproj.CopyComplete
+C:\Users\red_d\source\repos\SUS\Apps\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.dll
+C:\Users\red_d\source\repos\SUS\Apps\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.pdb

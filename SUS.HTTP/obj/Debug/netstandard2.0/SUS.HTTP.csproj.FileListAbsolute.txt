@@ -1,0 +1,8 @@
+C:\Users\red_d\source\repos\SUS\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
+C:\Users\red_d\source\repos\SUS\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\red_d\source\repos\SUS\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\red_d\source\repos\SUS\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csprojAssemblyReference.cache
+C:\Users\red_d\source\repos\SUS\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfoInputs.cache
+C:\Users\red_d\source\repos\SUS\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfo.cs
+C:\Users\red_d\source\repos\SUS\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\red_d\source\repos\SUS\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb

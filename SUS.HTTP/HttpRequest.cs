@@ -22,11 +22,18 @@ namespace SUS.HTTP
 
             int lineIndex = 1;
             bool isInHeaders = true;
+            var bodyBuilder = new StringBuilder();
 
             while (lineIndex < lines.Length)
             {
                 var line = lines[lineIndex];
                 lineIndex++;
+
+                if (string.IsNullOrWhiteSpace(line))
+                {
+                    isInHeaders = false;
+                    continue;
+                }
 
                 if (isInHeaders)
                 {
@@ -34,17 +41,11 @@ namespace SUS.HTTP
                 }
                 else
                 {
-                    //read body
+                    bodyBuilder.AppendLine(line);
                 }
-
-                if (string.IsNullOrWhiteSpace(line))
-                {
-                    isInHeaders = false;
-                    break;
-                }
-
-                
             }
+
+            this.Body = bodyBuilder.ToString();
         }
 
         public string Path { get; set; }

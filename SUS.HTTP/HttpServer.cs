@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
@@ -65,9 +66,12 @@ namespace SUS.HTTP
                 }
 
                 var requestAsString = Encoding.UTF8.GetString(data.ToArray());
+
+                var request = new HttpRequest(requestAsString);
                 Console.WriteLine(requestAsString);
 
-                var responseHtml = "<h1>Welcomevback, Mr.Anderson</h1>";
+                var responseHtml = "<h1>Welcomevback, Mr.Anderson</h1>" +
+                    request.Headers.FirstOrDefault(x => x.Name == "User-Agent")?.Value;
                 var responseBodyBytes = Encoding.UTF8.GetBytes(responseHtml);
 
                 var responseHttp = "HTTP/1.1 200 OK" + HttpConstants.NewLine +

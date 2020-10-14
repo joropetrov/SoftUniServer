@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace SUS.HTTP
@@ -17,7 +18,7 @@ namespace SUS.HTTP
             var headerLine = lines[0];
             var headerLineParts = headerLine.Split(' ');
 
-            this.Method = headerLineParts[0];
+            this.Method = (HttpMethod)Enum.Parse(typeof(HttpMethod), headerLineParts[0],true);
             this.Path = headerLineParts[1];
 
             int lineIndex = 1;
@@ -45,16 +46,21 @@ namespace SUS.HTTP
                 }
             }
 
+            if (this.Headers.Any(x => x.Name == "Cookie"))
+            {
+                var cookiesAsString = this.Headers.FirstOrDefault(x => x.Name == "Cookie");
+
+            }
             this.Body = bodyBuilder.ToString();
         }
 
         public string Path { get; set; }
 
-        public string Method { get; set; }
+        public HttpMethod Method { get; set; }
         
-        public List<Header> Headers { get; set; }
+        public ICollection<Header> Headers { get; set; }
 
-        public List<Cookie> Cookies { get; set; }
+        public ICollection<Cookie> Cookies { get; set; }
 
         public string Body { get; set; }
 

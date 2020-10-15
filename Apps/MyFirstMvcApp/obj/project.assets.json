@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\red_d\\.nuget\\packages\\": {},
+    "C:\\Users\\A01\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\red_d\\source\\repos\\SUS\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj",
+      "projectUniqueName": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj",
       "projectName": "MyFirstMvcApp",
-      "projectPath": "C:\\Users\\red_d\\source\\repos\\SUS\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj",
-      "packagesPath": "C:\\Users\\red_d\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\red_d\\source\\repos\\SUS\\Apps\\MyFirstMvcApp\\obj\\",
+      "projectPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj",
+      "packagesPath": "C:\\Users\\A01\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\Apps\\MyFirstMvcApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\red_d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\A01\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,8 +56,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\red_d\\source\\repos\\SUS\\SUS.HTTP\\SUS.HTTP.csproj": {
-              "projectPath": "C:\\Users\\red_d\\source\\repos\\SUS\\SUS.HTTP\\SUS.HTTP.csproj"
+            "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\SUS.HTTP\\SUS.HTTP.csproj": {
+              "projectPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\SUS.HTTP\\SUS.HTTP.csproj"
             }
           }
         }
@@ -85,7 +85,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

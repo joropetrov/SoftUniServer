@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\red_d\\source\\repos\\SUS\\SUS.HTTP\\SUS.HTTP.csproj": {}
+    "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\SUS.HTTP\\SUS.HTTP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\red_d\\source\\repos\\SUS\\SUS.HTTP\\SUS.HTTP.csproj": {
+    "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\SUS.HTTP\\SUS.HTTP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\red_d\\source\\repos\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
+        "projectUniqueName": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\SUS.HTTP\\SUS.HTTP.csproj",
         "projectName": "SUS.HTTP",
-        "projectPath": "C:\\Users\\red_d\\source\\repos\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
-        "packagesPath": "C:\\Users\\red_d\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\red_d\\source\\repos\\SUS\\SUS.HTTP\\obj\\",
+        "projectPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\SUS.HTTP\\SUS.HTTP.csproj",
+        "packagesPath": "C:\\Users\\A01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\SUS.HTTP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\red_d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\A01\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

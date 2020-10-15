@@ -46,9 +46,16 @@ namespace SUS.HTTP
                 }
             }
 
-            if (this.Headers.Any(x => x.Name == "Cookie"))
+            if (this.Headers.Any(x => x.Name == HttpConstants.RequestCookieHeder))
             {
-                var cookiesAsString = this.Headers.FirstOrDefault(x => x.Name == "Cookie");
+                var cookiesAsString = this.Headers.FirstOrDefault(x => 
+                x.Name == HttpConstants.RequestCookieHeder).Value;
+                var cookies = cookiesAsString.Split(new string[] { "; " }, StringSplitOptions.RemoveEmptyEntries);
+
+                foreach (var cookieAsString in cookies)
+                {
+                    this.Cookies.Add(new Cookie(cookieAsString));
+                }
 
             }
             this.Body = bodyBuilder.ToString();

@@ -23,14 +23,12 @@ namespace MyFirstMvcApp
 
             await server.StartAsync();
         }
-
-        private static HttpResponse Favicon(HttpRequest request)
+         static HttpResponse Favicon(HttpRequest request)
         {
             var fileBytes = File.ReadAllBytes("wwwroot/favicon.ico");
             var response = new HttpResponse("image/vnd.microsoft.icon", fileBytes);
             return response;
         }
-
         static HttpResponse HomePage(HttpRequest request)
         {
             var responseHtml = "<h1>welcome back, mr.anderson </h1>" +

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj": {}
+    "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SoftUniServer\\SoftUniServer.git\\branches\\master\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj": {
+    "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SoftUniServer\\SoftUniServer.git\\branches\\master\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj",
+        "projectUniqueName": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SoftUniServer\\SoftUniServer.git\\branches\\master\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj",
         "projectName": "MyFirstMvcApp",
-        "projectPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj",
+        "projectPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SoftUniServer\\SoftUniServer.git\\branches\\master\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj",
         "packagesPath": "C:\\Users\\A01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\Apps\\MyFirstMvcApp\\obj\\",
+        "outputPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SoftUniServer\\SoftUniServer.git\\branches\\master\\Apps\\MyFirstMvcApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\SUS.HTTP\\SUS.HTTP.csproj": {
-                "projectPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\SUS.HTTP\\SUS.HTTP.csproj"
+              "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SoftUniServer\\SoftUniServer.git\\branches\\master\\SUS.HTTP\\SUS.HTTP.csproj": {
+                "projectPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SoftUniServer\\SoftUniServer.git\\branches\\master\\SUS.HTTP\\SUS.HTTP.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\SUS.HTTP\\SUS.HTTP.csproj": {
+    "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SoftUniServer\\SoftUniServer.git\\branches\\master\\SUS.HTTP\\SUS.HTTP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\SUS.HTTP\\SUS.HTTP.csproj",
+        "projectUniqueName": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SoftUniServer\\SoftUniServer.git\\branches\\master\\SUS.HTTP\\SUS.HTTP.csproj",
         "projectName": "SUS.HTTP",
-        "projectPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\SUS.HTTP\\SUS.HTTP.csproj",
+        "projectPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SoftUniServer\\SoftUniServer.git\\branches\\master\\SUS.HTTP\\SUS.HTTP.csproj",
         "packagesPath": "C:\\Users\\A01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\SUS.HTTP\\obj\\",
+        "outputPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SoftUniServer\\SoftUniServer.git\\branches\\master\\SUS.HTTP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

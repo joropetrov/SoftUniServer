@@ -15,3 +15,12 @@ C:\Users\A01\Desktop\CodingStuffs2020\SusServer\branches\master\SUS.HTTP\obj\Deb
 C:\Users\A01\Desktop\CodingStuffs2020\SusServer\branches\master\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
 C:\Users\A01\Desktop\CodingStuffs2020\SusServer\branches\master\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
 C:\Users\A01\Desktop\CodingStuffs2020\SusServer\branches\master\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\A01\Desktop\CodingStuffs2020\SoftUniServer\SoftUniServer.git\branches\master\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
+C:\Users\A01\Desktop\CodingStuffs2020\SoftUniServer\SoftUniServer.git\branches\master\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\A01\Desktop\CodingStuffs2020\SoftUniServer\SoftUniServer.git\branches\master\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\A01\Desktop\CodingStuffs2020\SoftUniServer\SoftUniServer.git\branches\master\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csprojAssemblyReference.cache
+C:\Users\A01\Desktop\CodingStuffs2020\SoftUniServer\SoftUniServer.git\branches\master\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfoInputs.cache
+C:\Users\A01\Desktop\CodingStuffs2020\SoftUniServer\SoftUniServer.git\branches\master\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfo.cs
+C:\Users\A01\Desktop\CodingStuffs2020\SoftUniServer\SoftUniServer.git\branches\master\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.CoreCompileInputs.cache
+C:\Users\A01\Desktop\CodingStuffs2020\SoftUniServer\SoftUniServer.git\branches\master\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\A01\Desktop\CodingStuffs2020\SoftUniServer\SoftUniServer.git\branches\master\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb

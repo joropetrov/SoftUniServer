@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
+      "projectUniqueName": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SoftUniServer\\SoftUniServer.git\\branches\\master\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
       "projectName": "SUS.MvcFramework",
-      "projectPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
+      "projectPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SoftUniServer\\SoftUniServer.git\\branches\\master\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
       "packagesPath": "C:\\Users\\A01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SusServer\\branches\\master\\SUS.MvcFramework\\obj\\",
+      "outputPath": "C:\\Users\\A01\\Desktop\\CodingStuffs2020\\SoftUniServer\\SoftUniServer.git\\branches\\master\\SUS.MvcFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
